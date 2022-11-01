@@ -1,0 +1,59 @@
+body{
+    background-color: bisque;
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+h1{
+    color: mediumblue;
+}
+
+#header{
+    background-color: burlywood;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 2px;
+}
+
+blockquote{
+    background-color: yellow;
+    border: 1px dotted black;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.jawa{
+    color: mediumblue;
+    font-size: 50px;
+}
+
+.koleksi{
+    background-color: brown;
+    text-align: center;
+}
+
+.koleksi img{
+    width: 24%;
+}
+
+.promo{
+    text-align: center;
+}
+
+.promo ol{
+    list-style: none;
+}
+
+#Wa{
+    color: brown;
+}
